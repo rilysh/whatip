@@ -1,5 +1,6 @@
 ## whatip
-Retrives information about an IPv4 address
+Retrives information about an IPv4 address\
+[Idea?](https://github.com/rilysh/ewutils/pull/1)
 
 ## Build
 ```sh
