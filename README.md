@@ -15,3 +15,6 @@ Usage:
 whatip -ip [IPv4 address]
 whatip -c -ip [IPv4 address]
 ```
+
+## Note
+I've removed Windows Network API support from "http.h" header file. To get them back, use [this](https://github.com/markusfisch/libhttp) header instead.
